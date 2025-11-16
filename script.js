@@ -1,6 +1,6 @@
 // 🔗 1) 여기 안에 "웹 앱 URL" 을 붙여 넣으세요.
 // 예시: "https://script.google.com/macros/s/AKfycbw12345.../exec"
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyk3yjuC1yaySPaPQowE4kX6gjUitObk7LbyPN8yc0JZJx3iIyaWUBBzpJAFgRreIim/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzf309dC4t8zVxtYDdxenxBnKQFpbR_0o3t47lFQLCpe7GrRaaV7mr1y5hM9CA8_DEP/exec";
 
 // DOM 요소들 가져오기
 const levelButtons = document.querySelectorAll(".level-btn");
